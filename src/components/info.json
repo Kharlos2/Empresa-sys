@@ -1,0 +1,98 @@
+{
+    "clientes":[
+        {
+            "nombre":"Arturo",
+            "direccion":"Calle 34b",
+            "telefono":12312
+        },
+        {
+            "nombre":"Alex",
+            "direccion":"Calle 43c",
+            "telefono":1231
+        },
+        {
+            "nombre":"Fernando",
+            "direccion":"Calle 43c",
+            "telefono":12312
+        },
+        {
+            "nombre":"Lucho",
+            "direccion":"Carrera 34a",
+            "telefono":12312
+        },
+        {
+            "nombre":"Isaac",
+            "direccion":"Carrera 44a",
+            "telefono":132525
+        },
+        {
+            "nombre":"Lucho",
+            "direccion":"Carrera 36h",
+            "telefono":523424
+        }
+    ],
+    "productos":[
+        {
+            "nombre":"Cocacola",
+            "precio":3000,
+            "stock":4
+        },
+        {
+            "nombre":"Ramen",
+            "precio":20000,
+            "stock":200
+        },
+        {
+            "nombre":"Spaguetti",
+            "precio":30000,
+            "stock":30
+        },
+        {
+            "nombre":"Celular",
+            "precio":500000,
+            "stock":10
+        },
+        {
+            "nombre":"Pespsi",
+            "precio":2000,
+            "stock":6
+        },
+        {
+            "nombre":"Computador",
+            "precio":2500000,
+            "stock":2
+        }
+    ],
+    "proveedores":[
+        {
+            "nombre":"Cocacola IND",
+            "NIT": 1212453,
+            "direccion":"Calle 1c"
+        },
+        {
+            "nombre":"Doria",
+            "NIT": 1245553,
+            "direccion":"Calle 35V"
+        },
+        {
+            "nombre":"HP",
+            "NIT": 1252377,
+            "direccion":"Calle 34b Norte # 100"
+        },
+        {
+            "nombre":"Motorola",
+            "NIT": 12453,
+            "direccion":"Carrera 45a Sur #44 -88"
+        },
+        {
+            "nombre":"Pepsi co",
+            "NIT": 35653,
+            "direccion":"Carrera 33d #98 - 44"
+        },
+        {
+            "nombre":"Pragma",
+            "NIT": 453,
+            "direccion":"Calle 55s # 55 - 55"
+        }
+    ]
+}
